@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Aplikasi Peminjaman Barang Inventaris Kantor Premium">
-    <title>PinjamBarang Pro - Dashboard Peminjaman</title>
+    <title>Peminjaman</title>
     <!-- Bootstrap 5.3 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Bootstrap Icons -->
@@ -18,7 +18,7 @@
         <aside class="sidebar" id="sidebar">
             <div class="sidebar-brand">
                 <i class="bi bi-box-seam-fill fs-3 text-primary"></i>
-                <span>PinjamBarang Pro</span>
+                <span>Peminjaman</span>
             </div>
             <ul class="sidebar-menu">
                 <li>
@@ -40,7 +40,7 @@
         <header class="mobile-header">
             <div class="d-flex align-items-center gap-2">
                 <i class="bi bi-box-seam-fill fs-4 text-primary"></i>
-                <span class="fw-bold">PinjamBarang Pro</span>
+                <span class="fw-bold">Peminjaman</span>
             </div>
             <button class="btn btn-dark p-2" id="sidebar-toggle" aria-label="Toggle Sidebar">
                 <i class="bi bi-list fs-4"></i>
